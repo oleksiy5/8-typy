@@ -1,0 +1,7 @@
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\8-typy\ProjTypy\ProjTypy\bin\Debug\ProjTypy.exe.config
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\8-typy\ProjTypy\ProjTypy\bin\Debug\ProjTypy.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\8-typy\ProjTypy\ProjTypy\bin\Debug\ProjTypy.pdb
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\8-typy\ProjTypy\ProjTypy\obj\Debug\ProjTypy.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\8-typy\ProjTypy\ProjTypy\obj\Debug\ProjTypy.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\8-typy\ProjTypy\ProjTypy\obj\Debug\ProjTypy.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\8-typy\ProjTypy\ProjTypy\obj\Debug\ProjTypy.pdb
